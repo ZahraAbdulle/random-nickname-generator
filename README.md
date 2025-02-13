@@ -39,6 +39,3 @@ python nickname_generator.py
 
 Contributions are welcome! Feel free to fork the repository, suggest enhancements, or submit pull requests.
 
-## License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
